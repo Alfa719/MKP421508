@@ -1,6 +1,6 @@
-Nama  : Muhammad Nurul Hidayatulloh
-NIM   : 1821500073
-Prodi : Teknologi Informasi A
+#### Nama  : Muhammad Nurul Hidayatulloh
+#### NIM   : 1821500073
+#### Prodi : Teknologi Informasi A
 
 # Resume Dynamical System And Its Application
 
